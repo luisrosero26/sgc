@@ -1,0 +1,45 @@
+completion_text: |-
+  <p>FINAL QUIZ</p>
+description: |-
+  HACER EL QUIZ
+groups:
+- id: intro
+  pages:
+  - content: "<p>QUE ES SGC?</p> "
+    id: welcome
+    title: QUIZ 1
+    type: Page
+- id: quiz_start
+  pages:
+  - answers:
+    - <plain>TEXTO PLANO 1
+    id: quizquestion65
+    prompt: ''
+    title: QUE ES SGC?
+    type: TextQuestion
+    value: 10.0
+  shuffle: false
+rules:
+  access:
+  - permissions:
+    - view
+    - submit_answer
+    - end_session
+    - see_correctness
+    - see_answer_after_submission
+  grade_aggregation_strategy: use_latest
+  grade_identifier: quiz32
+  grading:
+  - credit_percent: 100
+  start:
+  - if_before: 2021-06-08 11:51:10+00:00
+    if_has_fewer_sessions_than: 1
+    if_has_role:
+    - student
+    - ta
+    - instructor
+    may_list_existing_sessions: true
+    may_start_new_session: true
+  - may_list_existing_sessions: true
+    may_start_new_session: false
+title: QUIZ 1
