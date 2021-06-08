@@ -1,12 +1,26 @@
-completion_text: |-
-  <p>AL FINAL</p><p><br></p><p>KJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFS</p><p>DFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJ</p><p>FOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSD<br></p>
-description: |-
-  JSKFJKDJFKDLFJGDKFDJ
+completion_text: "<p>AL FINAL</p><p><br></p><div class=\"item-title\" style=\"font-weight:\
+  \ 600; color: rgb(51, 51, 51); font-family: &quot;Open sans&quot;, Helvetica, Arial,\
+  \ sans-serif;\">Curso dirigido a</div><div class=\"item-content\" style=\"color:\
+  \ rgb(51, 51, 51); font-family: &quot;Open sans&quot;, Helvetica, Arial, sans-serif;\"\
+  >Estudiantes de \xFAltimos semestres, Profesionales, t\xE9cnicos en todas las carreras,\
+  \ jefes de calidad, asistentes de sistemas de gesti\xF3n de calidad, y personas\
+  \ en general que requieran formaci\xF3n en materia de gesti\xF3n de Calidad.</div>"
+description: "Objetivos del curso\r\nProporcionar a los participantes los conceptos\
+  \ y lineamientos de la utilizaci\xF3n de los aspectos b\xE1sicos y fundamentales\
+  \ para la planificaci\xF3n, preparaci\xF3n, desarrollo y ejecuci\xF3n de Auditorias\
+  \ Internas de calidad conforme a la norma ISO 9001:2015 y su incidencia en las organizaciones."
 next_flow_id: quiz32
 next_flow_title: REALIZAR QUIZ
 pages:
-- content: |-
-    <p>KJFOEIJFOSDJFSDFJSFJSD</p><p>KJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFS</p><p>DFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJ</p><p>SDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFO</p><p>EIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSD<br></p>
+- content: "<div class=\"item-title\" style=\"font-weight: 600; color: rgb(51, 51,\
+    \ 51); font-family: &quot;Open sans&quot;, Helvetica, Arial, sans-serif;\"><span\
+    \ style=\"font-size: 24px;\">Objetivos del curso</span></div><div class=\"item-content\"\
+    \ style=\"color: rgb(51, 51, 51); font-family: &quot;Open sans&quot;, Helvetica,\
+    \ Arial, sans-serif;\"><span style=\"font-size: 24px;\">Proporcionar a los participantes\
+    \ los conceptos y lineamientos de la utilizaci\xF3n de los aspectos b\xE1sicos\
+    \ y fundamentales para la planificaci\xF3n, preparaci\xF3n, desarrollo y ejecuci\xF3\
+    n de Auditorias Internas de calidad conforme a la norma ISO 9001:2015 y su incidencia\
+    \ en las organizaciones.</span></div>"
   id: intro
   title: Inicio
   type: Page
