@@ -1,0 +1,14 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow31
+    next_flow: quiz32
+    pages:
+    - flow_id: page64
+      title: CONTENIDO SGC
+    title: "INTRODUCCI\xD3N AL SGC"
+    title_next_flow: REALIZAR QUIZ
+  id: welcome
+  introduction: <p>OKFSOAFJODFJDOAFJOSDJGFDOIJOI</p>
+  rules: []
+  title: SGC
