@@ -24,8 +24,57 @@ pages:
   id: intro
   title: Inicio
   type: Page
-- content: |-
-    <p>KJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSDKJFOEIJFOSDJFSDFJSFJSD<br></p>
+- content: "<p style=\"margin-bottom: 1.5rem; padding: 0px; font-family: Roboto, &quot;Helvetica\
+    \ Neue&quot;, Arial, Helvetica, sans-serif; font-size: 16px;\">ISO 9001:2015 coloca\
+    \ la norma como parte integral de los esfuerzos de una organizaci\xF3n respecto\
+    \ al objetivo m\xE1s amplio de un desarrollo sostenible. Tambi\xE9n fomenta la\
+    \ ISO 9001 como herramienta para mejorar el rendimiento general de una organizaci\xF3\
+    n.</p><p style=\"margin-bottom: 1.5rem; padding: 0px; font-family: Roboto, &quot;Helvetica\
+    \ Neue&quot;, Arial, Helvetica, sans-serif; font-size: 16px;\">El objetivo de\
+    \ este curso, adecuado para todos aquellos que trabajen con las normas del sistema\
+    \ de gesti\xF3n de la calidad (SGC), es proporcionar a los participantes una introducci\xF3\
+    n exhaustiva a la norma ISO 9001:2015.</p><p style=\"margin-bottom: 1.5rem; padding:\
+    \ 0px; font-family: Roboto, &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;\
+    \ font-size: 16px;\">ISO 9001:2015 abarca las siguientes \xE1reas:</p><ul style=\"\
+    margin: 0.75rem 0px 1.5rem; padding: 0px; overflow: hidden; font-family: Roboto,\
+    \ &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif; font-size: 16px;\"\
+    ><li style=\"margin: 0px 0px 0.75rem; padding: 0px 0px 0px 2.25rem; list-style:\
+    \ none;\">Estructura y terminolog\xEDa, incluida la incorporaci\xF3n del marco\
+    \ de Annex SL.</li><li style=\"margin: 0px 0px 0.75rem; padding: 0px 0px 0px 2.25rem;\
+    \ list-style: none;\">El contexto externo e interno m\xE1s amplio de los SGC de\
+    \ una organizaci\xF3n (cl\xE1usulas 4 y 6).</li><li style=\"margin: 0px 0px 0.75rem;\
+    \ padding: 0px 0px 0px 2.25rem; list-style: none;\">Requisitos detallados del\
+    \ SGC, b\xE1sicamente las cl\xE1usulas 5 y 7-10.</li></ul><p style=\"margin-bottom:\
+    \ 1.5rem; padding: 0px; font-family: Roboto, &quot;Helvetica Neue&quot;, Arial,\
+    \ Helvetica, sans-serif; font-size: 16px;\">Al terminar de forma satisfactoria\
+    \ este curso, los asistentes podr\xE1n:</p><ul style=\"margin: 0.75rem 0px 1.5rem;\
+    \ padding: 0px; overflow: hidden; font-family: Roboto, &quot;Helvetica Neue&quot;,\
+    \ Arial, Helvetica, sans-serif; font-size: 16px;\"><li style=\"margin: 0px 0px\
+    \ 0.75rem; padding: 0px 0px 0px 2.25rem; list-style: none;\">Explicar la finalidad\
+    \ y el objetivo de la serie de normas de sistemas de gesti\xF3n.</li><li style=\"\
+    margin: 0px 0px 0.75rem; padding: 0px 0px 0px 2.25rem; list-style: none;\">Comprender\
+    \ la aplicaci\xF3n de los principios de gesti\xF3n de la calidad.</li><li style=\"\
+    margin: 0px 0px 0.75rem; padding: 0px 0px 0px 2.25rem; list-style: none;\">Explicar\
+    \ las relaciones entre las cl\xE1usulas de la norma ISO 9001:2015.</li></ul><h3\
+    \ style=\"margin: 3rem 0px 0.75rem; padding: 0px; font-family: &quot;Roboto Condensed&quot;,\
+    \ &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif; text-transform: uppercase;\
+    \ letter-spacing: 0.015em; color: rgb(0, 0, 0); font-size: 1.125rem !important;\
+    \ line-height: 1.33333em !important;\">INFORMACI\xD3N DEL CURSO</h3><p style=\"\
+    margin-bottom: 1.5rem; padding: 0px; font-family: Roboto, &quot;Helvetica Neue&quot;,\
+    \ Arial, Helvetica, sans-serif; font-size: 16px;\">Le ofrecemos las siguientes\
+    \ opciones:</p><ul style=\"margin: 0.75rem 0px 1.5rem; padding: 0px; overflow:\
+    \ hidden; font-family: Roboto, &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;\
+    \ font-size: 16px;\"><li style=\"margin: 0px 0px 0.75rem; padding: 0px 0px 0px\
+    \ 2.25rem; list-style: none;\"><strong style=\"margin: 0px; padding: 0px;\">Presencial</strong>:\
+    \ curso de un d\xEDa. Al terminar este curso, los asistentes recibir\xE1n un certificado\
+    \ de asistencia de SGS.</li><li style=\"margin: 0px 0px 0.75rem; padding: 0px\
+    \ 0px 0px 2.25rem; list-style: none;\"><strong style=\"margin: 0px; padding: 0px;\"\
+    >Aprendizaje a distancia</strong>: curso de una hora&nbsp; (visi\xF3n general).\
+    \ Al terminar este curso, los asistentes recibir\xE1n un certificado de finalizaci\xF3\
+    n de SGS.</li></ul><p style=\"margin-bottom: 1.5rem; padding: 0px; font-family:\
+    \ Roboto, &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif; font-size:\
+    \ 16px;\">P\xF3ngase en contacto con SGS hoy mismo para informarse sobre la formaci\xF3\
+    n para la norma ISO 9001:2015.</p>"
   id: page64
   title: CONTENIDO SGC
   type: Page
