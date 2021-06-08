@@ -11,7 +11,7 @@ groups:
 - id: quiz_start
   pages:
   - answers:
-    - <plain>TEXTO PLANO 1
+    - "<case_sens_plain>SISTEMA DE GESTI\xD3N DE CALIDAD"
     id: quizquestion65
     prompt: ''
     title: QUE ES SGC?
