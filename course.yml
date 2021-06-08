@@ -9,6 +9,6 @@ chunks:
     title: "INTRODUCCI\xD3N AL SGC"
     title_next_flow: REALIZAR QUIZ
   id: welcome
-  introduction: <p>OKFSOAFJODFJDOAFJOSDJGFDOIJOI</p>
+  introduction: "<p>INTRODUCCI\xD3N, VER DONDE VA ESTE TEXTO.</p><p><br></p>"
   rules: []
   title: SGC
