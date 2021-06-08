@@ -5,7 +5,7 @@ completion_text: "<p>AL FINAL</p><p><br></p><div class=\"item-title\" style=\"fo
   >Estudiantes de \xFAltimos semestres, Profesionales, t\xE9cnicos en todas las carreras,\
   \ jefes de calidad, asistentes de sistemas de gesti\xF3n de calidad, y personas\
   \ en general que requieran formaci\xF3n en materia de gesti\xF3n de Calidad.</div>"
-description: "Objetivos del curso\r\nProporcionar a los participantes los conceptos\
+description: "0 -Objetivos del curso\r\nProporcionar a los participantes los conceptos\
   \ y lineamientos de la utilizaci\xF3n de los aspectos b\xE1sicos y fundamentales\
   \ para la planificaci\xF3n, preparaci\xF3n, desarrollo y ejecuci\xF3n de Auditorias\
   \ Internas de calidad conforme a la norma ISO 9001:2015 y su incidencia en las organizaciones."
@@ -14,21 +14,21 @@ next_flow_title: REALIZAR QUIZ
 pages:
 - content: "<div class=\"item-title\" style=\"font-weight: 600; color: rgb(51, 51,\
     \ 51); font-family: &quot;Open sans&quot;, Helvetica, Arial, sans-serif;\"><span\
-    \ style=\"font-size: 24px;\">Objetivos del curso</span></div><div class=\"item-content\"\
-    \ style=\"color: rgb(51, 51, 51); font-family: &quot;Open sans&quot;, Helvetica,\
-    \ Arial, sans-serif;\"><span style=\"font-size: 24px;\">Proporcionar a los participantes\
-    \ los conceptos y lineamientos de la utilizaci\xF3n de los aspectos b\xE1sicos\
-    \ y fundamentales para la planificaci\xF3n, preparaci\xF3n, desarrollo y ejecuci\xF3\
-    n de Auditorias Internas de calidad conforme a la norma ISO 9001:2015 y su incidencia\
-    \ en las organizaciones.</span></div>"
+    \ style=\"font-size: 24px;\">1 -Objetivos del curso</span></div><div class=\"\
+    item-content\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open sans&quot;,\
+    \ Helvetica, Arial, sans-serif;\"><span style=\"font-size: 24px;\">Proporcionar\
+    \ a los participantes los conceptos y lineamientos de la utilizaci\xF3n de los\
+    \ aspectos b\xE1sicos y fundamentales para la planificaci\xF3n, preparaci\xF3\
+    n, desarrollo y ejecuci\xF3n de Auditorias Internas de calidad conforme a la norma\
+    \ ISO 9001:2015 y su incidencia en las organizaciones.</span></div>"
   id: intro
   title: Inicio
   type: Page
 - content: "<p style=\"margin-bottom: 1.5rem; padding: 0px; font-family: Roboto, &quot;Helvetica\
-    \ Neue&quot;, Arial, Helvetica, sans-serif; font-size: 16px;\">ISO 9001:2015 coloca\
-    \ la norma como parte integral de los esfuerzos de una organizaci\xF3n respecto\
-    \ al objetivo m\xE1s amplio de un desarrollo sostenible. Tambi\xE9n fomenta la\
-    \ ISO 9001 como herramienta para mejorar el rendimiento general de una organizaci\xF3\
+    \ Neue&quot;, Arial, Helvetica, sans-serif; font-size: 16px;\">2 - ISO 9001:2015\
+    \ coloca la norma como parte integral de los esfuerzos de una organizaci\xF3n\
+    \ respecto al objetivo m\xE1s amplio de un desarrollo sostenible. Tambi\xE9n fomenta\
+    \ la ISO 9001 como herramienta para mejorar el rendimiento general de una organizaci\xF3\
     n.</p><p style=\"margin-bottom: 1.5rem; padding: 0px; font-family: Roboto, &quot;Helvetica\
     \ Neue&quot;, Arial, Helvetica, sans-serif; font-size: 16px;\">El objetivo de\
     \ este curso, adecuado para todos aquellos que trabajen con las normas del sistema\
