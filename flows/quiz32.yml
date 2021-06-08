@@ -1,11 +1,10 @@
 completion_text: |-
   <p>FINAL QUIZ</p>
-description: |-
-  HACER EL QUIZ
+description: "HACER EL QUIZ DESCRIPCI\xD3N"
 groups:
 - id: intro
   pages:
-  - content: "<p>QUE ES SGC?</p> "
+  - content: "<p>CONTENIDO DOS DEL QUIZ</p> "
     id: welcome
     title: QUIZ 1
     type: Page
